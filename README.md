@@ -41,14 +41,18 @@ As implementações deste projeto seguem exatamente essa filosofia:
 
 ```text
 .
-├── kruskal.py
-├── prim.py
-├── dijkstra.py
+│   README.md
+│
 ├── instancias/
 │   ├── dij10.txt
 │   ├── dij20.txt
 │   ├── dij40.txt
 │   └── dij50.txt
+│
+└── src/
+    ├── dijkstra.py
+    ├── kruskal.py
+    └── prim.py
 ```
 
 ---
