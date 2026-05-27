@@ -1,8 +1,0 @@
-=================================================================
-  EXECUÇÃO E VALIDAÇÃO ISOLADA: ALGORITMO DE KRUSKAL
-=================================================================
-Instância: dij10.txt  | Vértices (|V|):  10 | Custo AGM:  7072 | Tempo: 0.0867 ms
-Instância: dij20.txt  | Vértices (|V|):  20 | Custo AGM: 15238 | Tempo: 0.0882 ms
-Instância: dij40.txt  | Vértices (|V|):  40 | Custo AGM: 26615 | Tempo: 0.2122 ms
-Instância: dij50.txt  | Vértices (|V|):  50 | Custo AGM: 30424 | Tempo: 0.3775 ms
-=================================================================
