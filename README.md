@@ -1,4 +1,4 @@
-# 🧠 Algoritmos Gulosos — Implementação e Avaliação
+# Algoritmos Gulosos — Implementação e Avaliação
 
 Este projeto apresenta implementações clássicas de algoritmos gulosos aplicados a problemas de grafos ponderados.
 
@@ -18,7 +18,7 @@ Todos os algoritmos foram implementados em Python, com foco em:
 
 ---
 
-# 📚 O que são Algoritmos Gulosos?
+# O que são Algoritmos Gulosos?
 
 Algoritmos gulosos (Greedy Algorithms) são estratégias de resolução de problemas que tomam, a cada etapa, a melhor decisão local possível, esperando que essa escolha leve à solução ótima global.
 
@@ -37,7 +37,7 @@ As implementações deste projeto seguem exatamente essa filosofia:
 
 ---
 
-# 📁 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```text
 .
@@ -53,7 +53,7 @@ As implementações deste projeto seguem exatamente essa filosofia:
 
 ---
 
-# 🔍 Formato das Instâncias
+# Formato das Instâncias
 
 Os algoritmos esperam arquivos `.txt` contendo grafos ponderados representados por matriz triangular superior.
 
@@ -78,7 +78,7 @@ Os scripts convertem automaticamente essa estrutura para:
 
 ---
 
-# 🌳 1. Algoritmo de Kruskal (`kruskal.py`)
+# 1. Algoritmo de Kruskal (`kruskal.py`)
 
 ## Objetivo
 
@@ -135,7 +135,7 @@ resultado_kruskal.txt
 
 ---
 
-# 🌲 2. Algoritmo de Prim (`prim.py`)
+# 2. Algoritmo de Prim (`prim.py`)
 
 ## Objetivo
 
@@ -185,7 +185,7 @@ resultado_prim.txt
 
 ---
 
-# 🛣️ 3. Algoritmo de Dijkstra (`dijkstra.py`)
+# 3. Algoritmo de Dijkstra (`dijkstra.py`)
 
 ## Objetivo
 
@@ -234,7 +234,7 @@ resultado_dijkstra.txt
 
 ---
 
-# 🚀 Como Executar os Algoritmos
+# Como Executar os Algoritmos
 
 ## 1. Clonar o Repositório
 
@@ -270,7 +270,7 @@ venv\Scripts\activate
 
 ---
 
-# 📂 Preparação das Instâncias
+# Preparação das Instâncias
 
 Crie uma pasta chamada:
 
@@ -295,7 +295,7 @@ Os scripts procuram automaticamente as instâncias nos diretórios:
 
 ---
 
-# ▶️ Execução dos Testes
+# Execução dos Testes
 
 ## Executar Kruskal
 
@@ -321,7 +321,7 @@ python dijkstra.py
 
 ---
 
-# 🧪 O que será exibido na execução?
+# O que será exibido na execução?
 
 Cada algoritmo:
 
@@ -339,7 +339,7 @@ Instância: dij20.txt | Vértices (|V|): 20 | Custo AGM: 15238 | Tempo: 0.1532 m
 
 ---
 
-# ✅ Critérios de Validação
+# Critérios de Validação
 
 Os valores obtidos devem coincidir com os resultados esperados abaixo.
 
@@ -352,7 +352,7 @@ Os valores obtidos devem coincidir com os resultados esperados abaixo.
 
 ---
 
-# 🧾 Observações Importantes
+# Observações Importantes
 
 * Todos os grafos utilizados são ponderados;
 * O algoritmo de Dijkstra pressupõe pesos não negativos;
@@ -362,7 +362,7 @@ Os valores obtidos devem coincidir com os resultados esperados abaixo.
 
 ---
 
-# 👨‍🏫 Orientações para Avaliação
+# Orientações para Avaliação
 
 Para validar os algoritmos, recomenda-se:
 
@@ -378,7 +378,7 @@ Para validar os algoritmos, recomenda-se:
 
 ---
 
-# 📌 Considerações Finais
+# Considerações Finais
 
 Os algoritmos implementados representam soluções clássicas da teoria dos grafos utilizando estratégias gulosas eficientes e amplamente utilizadas em Ciência da Computação.
 
